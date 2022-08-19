@@ -32,7 +32,7 @@ This is Music Player App with Api from Itunes.
 ## Instruction To Build The App
 
 * Clone respository
-```bash git clone https://github.com/ichsan321/Music_player.git ```
+* ```bash git clone https://github.com/ichsan321/Music_player.git ```
 * Open repository
 * cd Music_player
 * Run command
