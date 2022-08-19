@@ -1,6 +1,6 @@
 # Music Player App
 
-This is Music Player App with Api from Itunes.
+This is Music Player App build with language Dart on framework Flutter with API from Itunes.
 
 ## Supported Device
 
