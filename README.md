@@ -16,8 +16,8 @@ This is Music Player App build with language Dart on framework Flutter with API 
 * Search music
 * Pause music
 * Resume music
-* fast rewind music
-* fast forward music
+* Fast rewind music
+* Fast forward music
 
 
 
