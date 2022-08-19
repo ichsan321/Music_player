@@ -16,7 +16,7 @@ This is Music Player App with Api from Itunes.
 
 
 
-## Intruction To Build The App
+## Instruction To Build The App
 
 
 
